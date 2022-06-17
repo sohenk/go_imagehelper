@@ -10,3 +10,15 @@ IoReaderToImage
 ResizeImgToByteFromBytes
 
 ResizeGif
+
+ByteToImage
+
+IoReaderToBytes
+
+BytesToIoReader
+
+ImageToPaletted
+
+ResizeGifToGifs
+
+
