@@ -1,4 +1,4 @@
-package goimagehelper
+package go-imagehelper
 
 import (
 	"bytes"
