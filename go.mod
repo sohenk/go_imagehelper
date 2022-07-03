@@ -1,4 +1,4 @@
-module github.com/sohenk/go-imagehelper
+module github.com/sohenk/go_imagehelper
 
 go 1.18
 
